@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactappe0daba78": {}
+      },
+      "api": {
+        "reactapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
